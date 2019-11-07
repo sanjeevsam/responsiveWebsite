@@ -172,7 +172,8 @@ html{
     background-image: url(../images/8.jpg);
     position: relative;
     background-size: cover;
-    background-position: center;
+    -webkit-background-size:cover;
+    background-position: center center;
     z-index: 1;
 }
 .testimonial-area:before{
@@ -195,7 +196,7 @@ html{
     width: 100px;
     height: 100px;
     display: inline-block;
-    border-radius:50%;
+    border-radius:50%; 
     overflow: hidden ;
 
 }
@@ -209,4 +210,5 @@ img{
 .single-test1 h2{
     font-family: 'Audiowide',cursive;
     margin: 15px 0;
+    font-size:25px;
 }
