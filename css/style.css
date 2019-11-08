@@ -212,3 +212,10 @@ img{
     margin: 15px 0;
     font-size:25px;
 }
+/* footer area */
+.footer-area{
+    background: #262626;
+    color:#ffffff;
+    padding: 30px 0;
+    text-align: center;
+}
