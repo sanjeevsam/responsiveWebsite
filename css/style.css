@@ -235,6 +235,10 @@ img{
     .item-text h4{
         margin-bottom:15px;
     }
+        .item-text p{
+       display:none;
+    }
+    
     .about-img{
         padding-right: 0;
         margin-bottom: 30px;
