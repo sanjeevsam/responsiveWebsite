@@ -223,4 +223,46 @@ img{
     body{
         padding-right:0;
     }
+    .section-header h2{
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .navbar-toggler-icon{
+        color: #ffffff;
+    }
+    .slider-text h2{
+        font-size: 20px; 
+    }
+    .slider-text{
+        padding-top: 80%;
+    }
+    .slider-text a{
+        padding: 5px 10px;
+        font-size: 15px;
+    }
+    .item-text{
+        margin-top: 30px;
+    }
+    .item-text h4{
+        margin-bottom: 30px;
+    }
+    .about-img{
+        padding-right: 0;
+    }
+    .single-status h2{
+        font-size: 30px;
+    }
+    .single-award h2{
+        font-size: 18px;
+        line-height: 35px;
+
+    }
+    .single-award a{
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+    .single-test1{
+        padding: 15px 10px;
+        margin-bottom: 15px;
+    }
 }
