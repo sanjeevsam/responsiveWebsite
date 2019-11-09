@@ -231,11 +231,10 @@ img{
     .slider-text{
         padding-top: 80%;
     }
-        .item-text{
-        margin-top: 30px;
-    }
+       
     .item-text h4{
-        margin-to: 20px;
+        margin-top: 20px;
+        margin-bottom:15px;
     }
     .about-img{
         padding-right: 0;
