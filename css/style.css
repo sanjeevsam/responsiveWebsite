@@ -65,9 +65,11 @@ html{
 }
 /* about area */
 .about-area{
+    position:relative;
     margin-top:5%;
 }
 .about-img img{
+    
     width: 100%;
 }
 .item-text{
