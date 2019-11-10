@@ -76,6 +76,13 @@ html{
 .item-text h4{
     margin-bottom: 30px;
 }
+.card{
+    margin-top: 10px;
+}
+.card-header{
+    color:#ffffff;
+    background: #262626;
+}
 
 /* status area */
 .status-area{
@@ -311,5 +318,8 @@ img{
     }
     .single-work{
         margin-bottom:15px;
+    }
+        form input{
+        margin-top: 20%;
     }
 }
