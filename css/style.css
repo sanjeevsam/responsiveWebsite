@@ -29,6 +29,7 @@ html{
     text-transform: uppercase;
 }
 .slider-area{
+    margin-top:10%;
     background-image: url(../images/bg.jpg);
     background-size:cover;
     background-position: center center;
@@ -91,6 +92,7 @@ html{
 
 /* status area */
 .status-area{
+    margin-top:10%;
     background-image: url(../images/photo_440x220_04.jpg);
     background-attachment: fixed;
     background-size: cover;
