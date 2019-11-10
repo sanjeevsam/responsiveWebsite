@@ -29,7 +29,7 @@ html{
     text-transform: uppercase;
 }
 .slider-area{
-    margin-top:10%;
+    margin-top:5%;
     background-image: url(../images/bg.jpg);
     background-size:cover;
     background-position: center center;
@@ -63,6 +63,10 @@ html{
 .slider-text{
     text-align: center;
     padding-top: 20%;
+}
+form input{
+    padding-top:100px;
+    width:80%;
 }
 /* about area */
 .about-area{
