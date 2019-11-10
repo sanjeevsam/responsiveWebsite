@@ -64,6 +64,9 @@ html{
     padding-top: 20%;
 }
 /* about area */
+.about-area{
+    margin-top:50px;
+}
 .about-img img{
     width: 100%;
 }
