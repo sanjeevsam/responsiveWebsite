@@ -64,14 +64,14 @@ html{
     text-align: center;
     padding-top: 20%;
 }
+form{
+    padding:100px 0;
+}
 form input{
-    margin-top:100px;
+
     width:100%;
 }
-form button {
-    margin-top:100px;
-  
-}
+
 /* about area */
 .about-area{
     
