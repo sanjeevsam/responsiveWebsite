@@ -72,10 +72,7 @@ html{
 
     width:100%;
 }
-.card-text{
-    color:white;
-}
-h2,p{
+h2,p:not(.jumbotron p){
     color:white;
 }
 /* about area */
