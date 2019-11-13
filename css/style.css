@@ -71,7 +71,12 @@ html{
 
     width:100%;
 }
-
+.card-text{
+    color:white;
+}
+h2,p{
+    color:white;
+}
 /* about area */
 .about-area{
     
@@ -88,6 +93,7 @@ html{
     padding-right: 15px;
 }
 .item-text h4{
+    color: #ffffff;
     margin-bottom: 30px;
 }
 .card{
