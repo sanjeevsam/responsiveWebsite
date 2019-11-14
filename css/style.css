@@ -141,6 +141,8 @@ h2,p:not(.jumbotron p){
     text-align: center;
 }
 .single-service{
+    background: #5f5c5c;
+    color:#ffffff;
     border: 1px solid #dddddd;
     padding: 30px 20px;
     margin-bottom: 16px;
@@ -151,12 +153,7 @@ h2,p:not(.jumbotron p){
     text-transform: uppercase;
     font-weight: bold;
 } 
-.single-service:hover{
-    background: #5f5c5c;
-    color:#ffffff;
-    cursor: pointer;
-    transition: .6s;
-} 
+
 /* award area */
 .award-area{
     position: relative;
