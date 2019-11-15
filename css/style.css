@@ -75,6 +75,10 @@ html{
 h2,p:not(.jumbotron p){
     color:white;
 }
+.jumbotron img{
+    width:100px;
+    height:100px;
+}
 /* about area */
 .about-area{
     
