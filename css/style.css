@@ -345,6 +345,12 @@ img{
     form input{
         margin-top: 5%;
     }
-    
+    .jumbotron img{
+        margin-right:0;
+        width:100%;
+    }
+    .jumbotron .media-body{
+        float:bottom;
+    }
 
 }
