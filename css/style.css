@@ -76,8 +76,8 @@ h2,p:not(.jumbotron p){
     color:white;
 }
 .jumbotron img{
-    width:100px;
-    height:100px;
+    width:200px;
+    height:200px;
 }
 /* about area */
 .about-area{
