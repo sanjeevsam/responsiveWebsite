@@ -345,7 +345,7 @@ img{
     form input{
         margin-top: 5%;
     }
-    .jumbotron li .media img{
+    .jumbotron .media img{
         width:100px;
         height:100px;
     }
