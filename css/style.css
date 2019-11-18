@@ -103,7 +103,7 @@ h2,p:not(.jumbotron p){
 }
 .card-header{
     color:#ffffff;
-    background: #262626;
+    background: #3d3d29;
 }
 
 /* status area */
@@ -241,7 +241,7 @@ img{
 }
 /* footer area */
 .footer-area{
-    background: #262626;
+    background: #3d3d29;
     color:#ffffff;
     padding: 30px 0;
     text-align: center;
