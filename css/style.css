@@ -13,7 +13,7 @@ html{
     padding-bottom: 30px;
 }
 .navbar-brand{
-    color: #ffffff !important;
+    color: 	 #f2f2f2 !important;
 }
 .navbar-area{
     background: #3d3d29;
@@ -21,11 +21,11 @@ html{
 .navbar-nav .nav-link{
     padding-right: 0;
     padding-left: 0;
-    color: #ffffff !important;
+    color: 	 #f2f2f2 !important;
     font-weight: bold; 
 }
 .nav-item{
-    color: #ffffff;
+    color: 	 #f2f2f2;
     padding: 0 10px;
     text-transform: uppercase;
 }
