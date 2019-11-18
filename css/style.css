@@ -21,11 +21,11 @@ html{
 .navbar-nav .nav-link{
     padding-right: 0;
     padding-left: 0;
-    color: 	 #f2f2f2 !important;
+    color: 	#f2f2f2 !important;
     font-weight: bold; 
 }
 .nav-item{
-    color: 	 #f2f2f2;
+    color: 	#f2f2f2;
     padding: 0 10px;
     text-transform: uppercase;
 }
