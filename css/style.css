@@ -289,6 +289,9 @@ img{
     .single-test1{
         margin-bottom: 15px;
     }
+    .slider-text h2{
+     display: none;
+    }
 }
 @media only screen and (max-width:767px){
     body{
