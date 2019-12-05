@@ -289,6 +289,9 @@ img{
     .single-test1{
         margin-bottom: 15px;
     }
+    .card-body-block{
+        display: block;
+    }
 }
 @media only screen and (max-width:767px){
     body{
